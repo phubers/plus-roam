@@ -1,1 +1,1 @@
-(function(){let text=""; if(window.getSelection()!=''){text=window.getSelection().toString();}navigator.clipboard.writeText("__"+text+"__ — via ["+document.title+"]("+location.href+") [[+Roam]]");null;})()
+(function(){let text=""; if(window.getSelection()!=''){text=window.getSelection().toString();}navigator.clipboard.writeText("__"+text+"__ — via ["+document.title+"]("+location.href+") #[[+Roam]]");null;})()
